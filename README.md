@@ -9,6 +9,8 @@ Conway's game of life made in Unity 2020.3.7f1
 - Mouse left - kill or revive a cell
 
 
+In editor, use Grid-GameObject to change the grid size and cell spawn randomness
+
 ![Pause](https://j.gifs.com/EqRkRk.gif)
 
 
