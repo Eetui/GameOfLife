@@ -12,6 +12,6 @@ In editor, use Grid-GameObject to change the grid size and cell spawn randomness
 
 ![Pause](https://j.gifs.com/EqRkRk.gif)
 
-![Game](https://j.gifs.com/k2Rv5X.gif)
+![Game](https://j.gifs.com/k2RvZx.gif)
 
 
